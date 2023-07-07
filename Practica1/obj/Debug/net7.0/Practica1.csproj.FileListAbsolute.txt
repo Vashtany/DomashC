@@ -1,0 +1,15 @@
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.csproj.AssemblyReference.cache
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.AssemblyInfoInputs.cache
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.AssemblyInfo.cs
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.csproj.CoreCompileInputs.cache
+D:\DomashC#1\Practica1\bin\Debug\net7.0\Practica1.exe
+D:\DomashC#1\Practica1\bin\Debug\net7.0\Practica1.deps.json
+D:\DomashC#1\Practica1\bin\Debug\net7.0\Practica1.runtimeconfig.json
+D:\DomashC#1\Practica1\bin\Debug\net7.0\Practica1.dll
+D:\DomashC#1\Practica1\bin\Debug\net7.0\Practica1.pdb
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.dll
+D:\DomashC#1\Practica1\obj\Debug\net7.0\refint\Practica1.dll
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.pdb
+D:\DomashC#1\Practica1\obj\Debug\net7.0\Practica1.genruntimeconfig.cache
+D:\DomashC#1\Practica1\obj\Debug\net7.0\ref\Practica1.dll
