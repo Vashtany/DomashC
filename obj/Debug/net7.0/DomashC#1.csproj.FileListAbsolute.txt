@@ -1,0 +1,5 @@
+D:\DomashC#1\obj\Debug\net7.0\DomashC#1.csproj.AssemblyReference.cache
+D:\DomashC#1\obj\Debug\net7.0\DomashC#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DomashC#1\obj\Debug\net7.0\DomashC#1.AssemblyInfoInputs.cache
+D:\DomashC#1\obj\Debug\net7.0\DomashC#1.AssemblyInfo.cs
+D:\DomashC#1\obj\Debug\net7.0\DomashC#1.csproj.CoreCompileInputs.cache
